@@ -1,5 +1,5 @@
-#Notes
-##Patten Matching:
+# Notes
+## Patten Matching:
 * Feature in scala used to match pattens for easier analysis based on the patten
 * This is similar to switch in other languages
 * Patten matching in scala can be done on a 
