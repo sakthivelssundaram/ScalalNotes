@@ -49,9 +49,9 @@ object Expression extends App {
 
   //val example1 = Binop(Literal(1), "+", Literal(1))
   //val example2 = Binop(Binop(Literal(1), "+", Literal(1)), "*", Variable("x"))
-  
 
-  println(stringify(simplify(example1)))
-  println(stringify(simplify(example2)))
+
+  //println(stringify(simplify(example1)))
+  //println(stringify(simplify(example2)))
 
 }
